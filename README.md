@@ -1,6 +1,6 @@
 # Admin bootstrap template
 
-Phiên bản có chỉnh sửa
+Phiên bản chỉnh sửa từ startmin
 ### Composer Install
  
 	$ composer require mngspx/admin-template
